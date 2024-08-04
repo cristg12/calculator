@@ -1,0 +1,1 @@
+This project consist of bulding a calculator from scratch. I'm gonna design it, apply the styles and write the functionality with javascript.
